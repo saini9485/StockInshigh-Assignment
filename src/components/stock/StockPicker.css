@@ -1,0 +1,62 @@
+.container{
+width: 80%;
+height: auto;
+background-color: wheat;
+border-radius: 2px ;
+margin: auto;
+margin-top: 20px;
+}
+.btn{
+  width: 80px;
+  height: 25px;
+  border-radius: 10px;
+}
+.input{
+  width: 300px;
+  height: 25px;
+  border-radius: 15px;
+}
+.map-data {
+    display: flex;
+    /* display: inline-block; */
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    /* margin: auto; */
+    border-bottom: 2px solid rgb(86, 86, 238);
+    /* background-color: #e5e6ec; */
+    border-radius: 5px;
+    width: 50%;
+    /* justify-content: center; */
+   color:rgb(86, 86, 238)
+  }
+  .view{
+color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 250px;
+
+  }
+  .dumy-text{
+    color: black;
+    font-size: smaller;
+  }
+  button {
+    margin-left: 5px;
+  }
+  .map-stock{
+  
+color:rgb(86, 86, 238)
+
+  }
+
+  
+  .select{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    
+  }
