@@ -1,11 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+<h1>liveLink:- https://stock-inshigh-assignment-12if.vercel.app/</h1>
 In the project directory, you can run:
-
+<h1><a href ="https://stock-inshigh-assignment-12if.vercel.app/"></h1>
 ### `npm start`
 
 Runs the app in the development mode.\
